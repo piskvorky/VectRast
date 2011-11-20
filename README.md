@@ -46,6 +46,7 @@ How do I use it?
 The tool operates through command line arguments (YEAH!)
 
 Recognized parameters are:
+
 * **IO parameters**
   * `-loadbmp filename` : specify bitmap to load from; white color means empty space, anything else is ground
   * `-loadlev filename` : specify level to load from
@@ -94,5 +95,5 @@ I have a question not answered here, what now?
 
 [Ask me](mailto:xrehurek@fi.muni.cz?subject=vectrast) and I'll add it here. Also be sure you're using the latest version of VectRast.
 
-**NOTE: I created this tool 9 years ago. Elma game is still around and kicking,
-but don't send me any emails about VectRast please :-) **
+**NOTE: I created this tool 9 years ago. Elma the game is still around and kicking,
+but don't send me any emails about VectRast, please** :-)
