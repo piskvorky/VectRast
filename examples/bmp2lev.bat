@@ -1,0 +1,1 @@
+vectrast.exe -loadbmp inbmp.png -scale 1 1 -savelev outlev.lev >> log.txt

@@ -1,0 +1,1 @@
+vectrast.exe -loadlevbmp inlev.lev include.png -scale 2 2 -translate -5 -5 -savelev outlev.lev >> log.txt

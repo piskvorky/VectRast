@@ -1,0 +1,1 @@
+vectrast.exe -savebmp outbmp.png -loadlev inlev.lev -rotate 5 -scale 2209 2209 >> log.txt
