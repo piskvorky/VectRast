@@ -95,5 +95,5 @@ I have a question not answered here, what now?
 
 [Ask me](mailto:xrehurek@fi.muni.cz?subject=vectrast) and I'll add it here. Also be sure you're using the latest version of VectRast.
 
-**NOTE: I created this tool 9 years ago. Elma the game is still around and kicking,
+**NOTE: I created this tool many years ago (2003). Elma the game is still around and kicking,
 but don't send me any emails about VectRast, please** :-)
